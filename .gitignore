@@ -1,0 +1,4 @@
+// git에서 무시할 파일 및 폴더를 명시합니다.
+node_modules/
+
+.cache/
